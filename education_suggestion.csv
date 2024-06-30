@@ -1,0 +1,101 @@
+Subject,User_Language,User_Level,Text_Book,Online_Course,Suggested_App
+ Mathematics,English,Advanced,"""Calculus"" by James Stewart","""Introduction to Probability and Data"" by Duke University",edX
+ English Language,Hindi,Beginner,"""The Norton Anthology of English Literature"" edited by Stephen Greenblatt","""English Grammar Launch: Upgrade your speaking and listening"" by Anthony Kelleher",Udemy
+ History,English,Intermediate,"""A People's History of the United States"" by Howard Zinn","""The Modern World, Part One: Global History from 1760 to 1910"" by University of Virginia",Coursera
+Science,Hindi,Advanced,NCERT,"""Introduction to  science :pratham batch""",edX
+ Geography,English,Beginner,"""Geosystems: An Introduction to Physical Geography"" by Robert W. Christopherson"," ""The Complete Geography Course: Teach Yourself Geography"" by Dr. Richard Aspin",Udemy
+ Social Studies,Hindi,Intermediate,"""World History: Patterns of Interaction"" by Roger B. Beck, Linda Black, Larry S. Krieger, Phillip C. Naylor, Dahia Ibo Shabaka"," ""Globalization's Winners and Losers: Challenges for Developed and Developing Countries"" by Georgetown University",edX
+ Computer Science,English,Advanced,"""Introduction to Algorithms"" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein"," ""Introduction to Computer Science"" by Harvard University",Coursera
+Physics,Hindi,Beginner," ""University Physics with Modern Physics"" by Hugh D. Young, Roger A. Freedman","Udemy: ""Physics for Beginners: The Science of Fun and Excitement"" by Omar Khateeb",Udemy
+ Chemistry,English,Advanced,"""Chemistry: The Central Science"" by Theodore L. Brown, H. Eugene LeMay, Bruce E. Bursten, Catherine J. Murphy, Patrick M. Woodward, Matthew W. Stoltzfus","edX: ""Chemistry: Concept Development and Application"" by Rice University",edX
+Biology,Hindi,Beginner,"""Biology"" by Neil A. Campbell, Jane B. Reece, Lisa A. Urry, Michael L. Cain, Steven A. Wasserman, Peter V. Minorsky, Robert B. Jackson","Coursera: ""Fundamentals of Biology"" by Rice University",Coursera
+Algebra,English,Intermediate,"""Algebra"" by Michael Artin","edX: ""College Algebra and Problem Solving"" by Arizona State University",edX
+Geometry,Hindi,Advanced,"""Geometry"" by Ray C. Jurgensen, Richard G. Brown, John W. Jurgensen","Udemy: ""Geometry Fundamentals: Basics of Geometry - Geometry Tutorial"" by Brian McLogan",Udemy
+Literature,English,Beginner,"""The Norton Anthology of American Literature"" edited by Nina Baym, Robert S. Levine",    Coursera: The Fiction of Relationship by Brown University,Coursera
+ Economics,Hindi,Intermediate,"""Principles of Economics"" by N. Gregory Mankiw", Coursera: Microeconomics Principles by University of Illinois at Urbana-Champaign,Coursera
+Government,English,Advanced,"""American Government: Institutions and Policies"" by James Q. Wilson, John J. DiIulio Jr., Meena Bose", Udemy: Governmental Accounting 100 by Victoria Rogers,Udemy
+Psychology,Hindi,Beginner,"""Psychology"" by Peter O. Gray, David F. Bjorklund",Coursera: Introduction to Psychology by University of Toronto,Coursera
+ Sociology,English,Intermediate,"""Sociology"" by John J. Macionis"," Coursera: Introduction to Sociology by University of London, Goldsmiths, University of London",Coursera
+ Anthropology,Hindi,Advanced,"""Cultural Anthropology"" by Emily A. Schultz, Robert H. Lavenda   ,  ""Physical Anthropology"" by Philip L. Stein, Bruce M. Rowe",  Coursera: Introduction to Anthropology by University of Virginia,Coursera
+Philosophy,English,Beginner,"""The Republic"" by Plato",   Coursera: Introduction to Philosophy by University of Edinburgh,Coursera
+Art,Hindi,Intermediate,"""Ways of Seeing"" by John Berger", Udemy: Art Fundamentals - Drawing and Painting Essentials by Rich Graysonn,Udemy
+Music,English,Advanced,"""The Enjoyment of Music"" by Kristine Forney, Andrew Dell'Antonio, Joseph Machlis",  edX: Introduction to Music Theory by Berklee College of Music,edX
+Physical Education,Hindi,Beginner,"""Foundations of Physical Education, Exercise Science, and Sport"" by Jennifer L. Walton-Fisette, Deborah A. Wuest"," Udemy: Physical Education for Homeschool, Classroom, Gym or Co-op by Shelley Kent",Udemy
+Health,English,Intermediate,"""Total Fitness and Wellness"" by Scott K. Powers, Stephen L. Dodd",  Coursera: Child Nutrition and Cooking by Stanford University,Coursera
+ Astronomy,Hindi,Advanced,"""Astronomy: A Beginner's Guide to the Universe"" by Eric Chaisson, Steve McMillan",  Coursera: Astronomy: Exploring Time and Space by University of Arizona,Coursera
+ Environmental Science,English,Beginner,"""Environmental Science"" by Daniel D. Chiras",Udemy: Environmental Science: Environmental Economics and Management by Jeff Bennett,Udemy
+ Geology,Hindi,Advanced,"""Essentials of Geology"" by Stephen Marshak  ,  ""Physical Geology"" by Charles C. Plummer, Diane H. Carlson, Lisa Hammersley",Coursera: Planet Earth...and You! by University of Illinois at Urbana-Champaign,Coursera
+ Meteorology,English,Beginner,"""Meteorology Today: An Introduction to Weather, Climate, and the Environment"" by C. Donald Ahrens, Robert Henson",Udemy: Meteorology: How the Weather Works by Scott Denning,Udemy
+Political Science,Hindi,Intermediate,"""The Prince"" by Niccolò Machiavelli", Coursera: The Science of Politics by Yale University,Coursera
+ Linguistics,English,Advanced,"""Linguistics: An Introduction to Language and Communication"" by Adrian Akmajian, Richard A. Demers, Ann K. Farmer, Robert M. Harnish",edX: Introduction to Linguistics by MIT,edX
+Archaeology,Hindi,Beginner,"""The Archaeology of Knowledge"" by Michel Foucault","Udemy: Archaeology: Theories, Methods, and Practice by Great Courses",Udemy
+ Statistics,English,Intermediate,"""Statistics"" by David Freedman, Robert Pisani, Roger Purves", Coursera: Statistics with R by Duke University,Coursera
+ Business,Hindi,Advanced,"""Essentials of Business Communication"" by Mary Ellen Guffey, Dana Loewy", Udemy: Business Fundamentals: Corporate Strategy by,Udemy
+ Marketing,English,Advanced,"""Principles of Marketing"" by Philip T. Kotler, Gary Armstrong",Coursera: Marketing Management by University of Illinois at Urbana-Champaign,Coursera
+ Finance,Hindi,Beginner,"""Principles of Corporate Finance"" by Richard A. Brealey, Stewart C. Myers, Franklin Allen", Udemy: Finance for Non-Finance Managers by Institute of Investment Banking,Udemy
+Accounting,English,Intermediate,"""Financial Accounting"" by Walter T. Harrison Jr., Charles T. Horngren, C. William Thomas",Coursera: Financial Accounting Fundamentals by University of Illinois at Urbana-Champaign,Coursera
+Management,Hindi,Advanced,"""Principles of Management"" by Henri Fayol", Coursera: Fundamentals of Management by University of London,Coursera
+Entrepreneurship,English,Beginner,"""The Lean Startup"" by Eric Ries", edX: Becoming an Entrepreneur by MIT,edX
+Human Resources,Hindi,Intermediate,"""Human Resource Management"" by Gary Dessler",Udemy: Human Resource Management: HR for People Managers by Global Management Academy,Udemy
+Operations Management,English,Advanced,"""Operations Management"" by William J. Stevenson",Coursera: Introduction to Operations Management by University of Pennsylvania,Coursera
+Supply Chain Management,Hindi,Beginner,"""Supply Chain Management: Strategy, Planning, and Operation"" by Sunil Chopra, Peter Meindl","  Udemy: Supply Chain Management: Fundamentals, Design, Operations by Supply Chain Management Institute",Udemy
+ International Relations,English,Advanced,"""International Relations"" by Joshua S. Goldstein, Jon C. Pevehouse",edX: International Humanitarian Law in Theory and Practice by Université catholique de Louvain,edX
+Public Relations,Hindi,Beginner,"""Public Relations: Strategies and Tactics"" by Dennis L. Wilcox, Glen T. Cameron, Bryan H. Reber", Udemy: Public Relations: Communicate Effectively with the Media by Alan Sharpe,Udemy
+ Communication Studies,English,Intermediate,"""A First Look at Communication Theory"" by Em Griffin",Coursera: Communication Skills for Engineers by Rice University,Coursera
+ Media Studies,Hindi,Advanced,"""Understanding Media Industries"" by Timothy Havens"," Coursera: Introduction to Media and Cultural Studies by University of London, Goldsmiths, University of London",Coursera
+ Film Studies,English,Beginner,"""Film Art: An Introduction"" by David Bordwell, Kristin Thompson, Jeff Smith",Coursera: Sight and Sound Film School by Sight & Sound,Coursera
+ Theater,Hindi,Intermediate,"""Theater: The Lively Art"" by Edwin Wilson, Alvin Goldfarb",Udemy: Acting Techniques Masterclass by Kevin Spacey,Udemy
+ Dance,English,Advanced,"""History of Dance"" by Gayle Kassing, Jennifer Dunning",Coursera: Introduction to Classical Ballet by Hong Kong Ballet,Coursera
+Photography,Hindi,Advanced,"""Understanding Exposure: How to Shoot Great Photographs with Any Camera"" by Bryan Peterson",Udemy: Photography Masterclass: A Complete Guide to Photography by Phil Ebiner,Udemy
+ Graphic Design,English,Beginner,"""Graphic Design School: The Principles and Practice of Graphic Design"" by David Dabner, Sandra Stewart, Abbie Vickress", Coursera: Graphic Design by California Institute of the Arts,Coursera
+ Web Design,Hindi,Intermediate,"""HTML and CSS: Design and Build Websites"" by Jon Duckett","Coursera: Responsive Web Design by University of London, Goldsmiths, University of London",Coursera
+ Information Technology,English,Advanced,"""Information Technology for Management: Digital Strategies for Insight, Action, and Sustainable Performance"" by Efraim Turban, Linda Volonino, Gregory R. Wood",Coursera: Information Technology Essentials by University of Michigan,Coursera
+Cybersecurity,Hindi,Beginner,"""The Cybersecurity Canon: Books You Must Read"" by Rick Howard",Coursera: Cybersecurity Fundamentals by Rochester Institute of Technology,Coursera
+ Data Science,English,Intermediate,"""Python for Data Analysis"" by Wes McKinney  ,""Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking"" by Foster Provost, Tom Fawcett",Coursera: Data Science and Machine Learning Bootcamp with R by Jose Portilla,Coursera
+Artificial Intelligence,Hindi,Advanced,"""Artificial Intelligence: A Modern Approach"" by Stuart Russell and Peter Norvig",edX: Artificial Intelligence (AI) by Columbia University,edX
+ Machine Learning,English,Beginner,"""Pattern Recognition and Machine Learning"" by Christopher M. Bishop  ,""Machine Learning Yearning"" by Andrew Ng",Coursera: Machine Learning by Stanford University,Coursera
+Robotics,Hindi,Advanced,"""Introduction to Autonomous Robots"" by Nikolaus Correll, Bradley Hayes, and Amir Deghani ",edX: Robotics: Estimation and Learning by University of Pennsylvania,edX
+ Software Engineering,English,Beginner,"""Software Engineering: A Practitioner's Approach"" by Roger S. Pressman",Udemy: The Complete Software Engineering Bootcamp by Codestars by Rob Percival and Mike X Cohen,Udemy
+Programming,Hindi,Intermediate,"""The Pragmatic Programmer: Your Journey to Mastery"" by Andrew Hunt and David Thomas",Udemy: The Complete Web Developer Course 2.0 by Rob Percival,Udemy
+Web Development,English,Advanced,"""HTML and CSS: Design and Build Websites"" by Jon Duckett  , ""Web Development with Node and Express"" by Ethan Brown",Coursera: Web Design for Everybody: Basics of Web Development & Coding by University of Michigan,Coursera
+Mobile Development,Hindi,Beginner," ""Learning Swift: Building Apps for macOS, iOS, and Beyond"" by Paris Buttfield-Addison, Jon Manning, and Tim Nugent , ""Android Programming:The Big Nerd Ranch Guide"" by Bill Phillips and Chris Stewart",Udemy: iOS 14 & Swift 5 - The Complete iOS App Development Bootcamp by Angela Yu,Udemy
+Game Development,English,Intermediate,"""Game Programming Patterns"" by Robert Nystrom",Coursera: Introduction to Game Development by Michigan State University,Coursera
+Virtual Reality,Hindi,Advanced,"""Virtual Reality: Concepts and Technologies"" by William R. Sherman and Alan B. Craig",Coursera: Introduction to Virtual Reality by University of London,Coursera
+Augmented Reality,English,Advanced,"""Augmented Reality: Principles and Practice"" by Dieter Schmalstieg and Tobias Hollerer", edX: Augmented Reality (AR) Foundations by University of Toronto,edX
+Blockchain Technology,Hindi,Beginner,"""Blockchain Basics: A Non-Technical Introduction in 25 Steps"" by Daniel Drescher",Coursera: Blockchain Basics by University at Buffalo,Coursera
+Cryptocurrency,English,Intermediate,"""Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond"" by Chris Burniske and Jack Tatar", Udemy: Cryptocurrency Investment Course 2021: Fund Your Retirement! by Keenan Gracey,Udemy
+Cryptography,Hindi,Advanced,"""Cryptography and Network Security: Principles and Practice"" by William Stallings", Coursera: Cryptography I by Stanford University,Coursera
+Digital Marketing,English,Beginner,"""Digital Marketing: Strategy, Implementation, and Practice"" by Dave Chaffey and Fiona Ellis-Chadwick","Udemy: Digital Marketing Masterclass 2021 - 23 Courses in 1 by Phil Ebiner, Diego Davila, Video School Online Inc",Udemy
+Content Marketing,Hindi,Intermediate,"""Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses"" by Joe Pulizzi",Coursera: Content Strategy for Professionals Specialization by Northwestern University,Coursera
+Search Engine Optimization (SEO),English,Advanced,"""The Art of SEO: Mastering Search Engine Optimization"" by Eric Enge, Stephan Spencer, Jessie Stricchiola, and Rand Fishkin","Coursera: Search Engine Optimization (SEO) by University of California, Davis",Coursera
+Social Media Marketing,Hindi,Beginner,"""Social Media Marketing Workbook: How to Use Social Media for Business"" by Jason McDonald",Udemy: Social Media Marketing MASTERY by Evan Kimbrell,Udemy
+Email Marketing,English,Advanced,"""Email Marketing Demystified: Build a Massive Mailing List, Write Copy that Converts and Generate More Sales"" by Matthew Paulson","Coursera: ""Email Marketing"" by University of Illinois at Urbana-Champaign",Coursera
+Affiliate Marketing,Hindi,Beginner,"""Affiliate Program Management: An Hour a Day"" by Evgenii Prussakov",Coursera: Digital Marketing Specialization by University of Illinois at Urbana-Champaign,Coursera
+E-commerce,English,Intermediate,"""E-Commerce For Dummies"" by Don Jones and Mark D. Scott",Udemy: E-commerce Business: Shopify & Dropshipping by Bradley Sean Black,Udemy
+Retail Management,Hindi,Advanced,"""Retail Management: A Strategic Approach"" by Barry Berman, Joel R. Evans, and Patrali Chatterjee",edX: Retail Fundamentals by Microsoft,edX
+Hospitality Management,English,Beginner,"""Hospitality Management Accounting"" by Martin G. Jagels",Udemy: Hospitality Management - Learn Smart and Manage Your Time by Ermin Dedic,Udemy
+Tourism Management,Hindi,Intermediate,"""Tourism Management: An Introduction"" by Stephen J. Page",Coursera: International Hospitality & Tourism Management by University of London,Coursera
+Event Management,English,Advanced,"""Professional Event Coordination"" by Julia Rutherford Silvers","Udemy: Event Management: How to Plan, Market & Run Events by Phil Carrick",Udemy
+Sports Management,Hindi,Beginner,"""Introduction to Sport Management: Theory and Practice"" by Packianathan Chelladurai",edX: Sport Management by Clemson University,edX
+Health Administration,English,Intermediate,"""Introduction to Health Care Management"" by Sharon B. Buchbinder and Nancy H. Shanks",Coursera: Healthcare Administration Specialization by University of Colorado System,Coursera
+Public Health,Hindi,Advanced,"""Public Health 101: Healthy People - Healthy Populations"" by Richard Riegelman",Udemy: Public Health for Everyone by Melinda Miller,Udemy
+Nursing,English,Beginner,"""Medical-Surgical Nursing: Assessment and Management of Clinical Problems"" by Sharon L. Lewis, Linda Bucher, Margaret M. Heitkemper, Mariann M. Harding", Coursera: Nursing Informatics by University of Minnesota,Coursera
+Medicine,Hindi,Intermediate,"""Harrison's Principles of Internal Medicine"" edited by J. Larry Jameson, Anthony S. Fauci, Dennis L. Kasper, Stephen L. Hauser, Dan L. Longo, Joseph Loscalzo",Udemy: Medical Terminology for Beginners by Shivangi Srivastava,Udemy
+Dentistry,English,Advanced,"""Dentistry: An Illustrated History"" by Malvin E. Ring",Udemy: The Complete Dental Blueprint - Simplified by Jay M. Pee,Udemy
+Pharmacy,Hindi,Beginner,"""Rang & Dale's Pharmacology"" by James M. Ritter, Rod J. Flower, Graeme Henderson, Yoon Kong Loke, David MacEwan, Humphrey P. Rang",Udemy: Pharmacy Math to Become a Pharmacy Technician by Jason Reed,Udemy
+Veterinary Medicine,English,Advanced,"""Veterinary Anatomy Coloring Book"" by Baljit Singh",Coursera: Animal Behaviour and Welfare by University of Edinburgh,Coursera
+Physical Therapy,Hindi,Beginner,"""Physical Rehabilitation"" by Susan B. O'Sullivan, Thomas J. Schmitz, and George Fulk",Coursera: Introduction to Physical Therapy by University of Pittsburgh,Coursera
+Occupational Therapy,English,Intermediate,"""Willard & Spackman's Occupational Therapy"" by Barbara A. Boyt Schell, Glen Gillen, Marjorie Scaffa, Ellen Cohn",Coursera: Occupational Health in Developing Countries by University of Bergen,Coursera
+Speech Therapy,Hindi,Advanced,"""Anatomy & Physiology for Speech, Language, and Hearing"" by J. Anthony Seikel, David G. Drumright, and Douglas W. King",Udemy: Speech Therapy: Language Disorders & Treatment by Phyllicia Bonanno,Udemy
+Nutrition,English,Beginner,"""Nutrition: Concepts and Controversies"" by Frances Sizer and Ellie Whitney",Coursera: Nutrition and Cancer by Wageningen University,Coursera
+Dietetics,Hindi,Intermediate,"""Krause's Food & the Nutrition Care Process"" by L. Kathleen Mahan and Janice L. Raymond","Udemy: Dietetics - Clinical Nutrition by Lee Parimuha, MS, RD, LDN",Udemy
+Food Science,English,Beginner,"""Food Chemistry"" by H.-D. Belitz, W. Grosch, and P. Schieberle",Coursera: The Science of Gastronomy by HKUx,Coursera
+Culinary Arts,Hindi,Intermediate,"""On Food and Cooking: The Science and Lore of the Kitchen"" by Harold McGee",Udemy: Culinary Arts: Learn The Basics of Cooking by Edline Louie,Udemy
+Fashion Design,English,Advanced,"""Fashion Design Course: Principles, Practice, and Techniques"" by Steven Faerm",  Coursera: Fashion as Design by The Museum of Modern Art,Coursera
+Interior Design,Hindi,Beginner,"""Interior Design Illustrated"" by Francis D. K. Ching and Corky Binggeli",Udemy: Interior Design: Complete Beginner’s Guide to Interior Design by John Willingham,Udemy
+Industrial Design,English,Intermediate,"""The Design of Everyday Things"" by Don Norman",  edX: Design Thinking Fundamentals by Rochester Institute of Technology,edX
+Product Design,Hindi,Advanced,"""Product Design and Development"" by Karl Ulrich and Steven Eppinger", Udemy: Product Design: Complete Guide in 2021 by Prototypr.io Education,Udemy
+Architecture,English,Beginner,"""Architecture: Form, Space, and Order"" by Francis D. K. Ching",edX: Architecture by Harvard University,edX
+Urban Planning,Hindi,Advanced,"Urban Planning and Design Criteria"" by Frederick R. Steiner and Kent Butler",Udemy: Introduction to Urban Planning by Michael E. Leary,Udemy
+Landscape Architecture,English,Beginner,"""Landscape Architecture: A Manual of Environmental Planning and Design"" by Barry Starke and John Ormsbee Simonds",Coursera: Landscape Architecture by University of Illinois at Urbana-Champaign,Coursera
+Education,Hindi,Intermediate,"""How Learning Works: Seven Research-Based Principles for Smart Teaching"" by Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, and Marie K. Norman", Coursera: Foundations of Teaching for Learning by Commonwealth Education Trust,Coursera
